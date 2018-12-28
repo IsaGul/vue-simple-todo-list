@@ -1,5 +1,12 @@
 # simple-todo-list
 
+You must install following modules for project works very well.
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/vue-fontawesome
+npm i bootstrap-vue
+
 ## Project setup
 ```
 npm install
